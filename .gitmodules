@@ -1,0 +1,6 @@
+[submodule "react_frontend"]
+	path = react_frontend
+	url = git@github.com:Btaralte/zopa_poker_react_frontend.git
+[submodule "nest_backend"]
+	path = nest_backend
+	url = git@github.com:Btaralte/zopa_poker_range_nest_backend.git
